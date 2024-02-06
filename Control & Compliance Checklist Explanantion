@@ -1,0 +1,88 @@
+This assessment uses the details from the scope, goals, risk assessment report, and the types of controls (Administrative/Managerial, Technical, Physical/Operational) as a guide:
+
+Least Privilege (Administrative/Managerial Control - Preventative)
+Answer: No. Access controls such as least privilege and separation of duties have not been implemented.
+
+Disaster Recovery Plans (Administrative/Managerial Control - Corrective)
+Answer: No. There are no disaster recovery plans currently in place.
+
+Password Policies (Administrative/Managerial Control - Preventative)
+Answer: No. Although a password policy exists, its requirements are not in line with current minimum complexity requirements.
+
+Access Control Policies (Administrative/Managerial Control - Preventative)
+Answer: No. Proper access control policies have not been implemented to ensure least privilege and separation of duties.
+
+Account Management Policies (Administrative/Managerial Control - Preventative)
+Answer: Partially. While there is some level of account management, there is no centralized password management system, indicating account management policies might not be fully effective or comprehensive.
+
+Separation of Duties (Administrative/Managerial Control - Preventative)
+Answer: No. Separation of duties has not been implemented.
+
+Firewall (Technical Control - Preventative)
+Answer: Yes. The IT department has a firewall in place with defined security rules.
+
+IDS/IPS (Technical Control - Detective)
+Answer: No. The IT department has not installed an intrusion detection system (IDS).
+
+Encryption (Technical Control - Deterrent)
+Answer: No. Encryption is not currently used for protecting the confidentiality of customer data.
+
+Backups (Technical Control - Corrective)
+Answer: No. The company does not have backups of critical data.
+
+Password Management (Technical Control - Preventative)
+Answer: No. There is no centralized password management system in place.
+
+Antivirus (AV) Software (Technical Control - Corrective)
+Answer: Yes. Antivirus software is installed and monitored regularly by the IT department.
+
+Manual Monitoring, Maintenance, and Intervention (Technical Control - Preventative)
+Answer: Partially. While legacy systems are monitored and maintained, there is no regular schedule, and intervention methods are unclear.
+
+Physical/Operational Controls like Locks, CCTV, Fire Detection and Prevention Systems
+Answer: Yes. The physical location has sufficient locks, up-to-date CCTV surveillance, and functioning fire detection and prevention systems.
+
+------
+
+**Payment Card Industry Data Security Standard (PCI DSS):**
+
+1. Only authorized users have access to customers’ credit card information.
+  Answer: No. All employees currently have access to internally stored data which may include cardholder data.
+
+2. Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
+  Answer: No. There's no mention of a secure environment for processing and transmitting credit card information.
+  
+3. Implement data encryption procedures to better secure credit card transaction touchpoints and data.
+  Answer: No. Encryption is not currently used for customer credit card information.
+  
+4. Adopt secure password management policies.
+Answer: No. The password policy is nominal and not in compliance with minimum complexity requirements.
+
+
+**General Data Protection Regulation (GDPR):**
+
+5. E.U. customers’ data is kept private/secured.
+Answer: No. (Partially) The company has developed and enforces privacy policies but there's no mention of specific measures that ensure E.U. data is kept private or secured.
+
+6. There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
+Answer: Yes. There is a plan to notify E.U. customers within 72 hours of a breach.
+
+7. Ensure data is properly classified and inventoried.
+Answer: No. The IT department does not know which assets would be at risk, suggesting poor data classification and inventory.
+
+8. Enforce privacy policies, procedures, and processes to properly document and maintain data.
+Answer: Yes. Privacy policies, procedures, and processes have been developed and are enforced.
+
+
+**System and Organizations Controls (SOC type 1, SOC type 2):**
+9. User access policies are established.
+  Answer: No. Access controls pertaining to least privilege and separation of duties have not been implemented.
+
+10. Sensitive data (PII/SPII) is confidential/private.
+  Answer: No. All employees may be able to access sensitive data, and there is no encryption in place.
+
+11. Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+  Answer: Yes. (Partially) There's no mention of data integrity validation, although some controls are in place.
+
+12. Data is available to individuals authorized to access it.
+  Answer: No. There's a lack of proper access control policies.
