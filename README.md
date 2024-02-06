@@ -14,7 +14,7 @@ This project assesses Botium Toys' cybersecurity, focusing on system and custome
 
 ## Navigation
 - `docs`: Security state analysis.
-- `checklists`: Security checklist review.
+- `checklist`: Security checklist review.
 - `recommendations`: Security enhancement suggestions.
 
 ## Key Findings
