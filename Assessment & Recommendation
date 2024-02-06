@@ -1,1 +1,56 @@
+Botium Toys Assessment Findings:
 
+1. Access Control:
+Currently, all employees have access to sensitive data, including customer payment information, which exposes the company to a high risk of data breaches.
+
+2. Data Encryption:
+Credit card and personal data are not encrypted, posing a significant risk of information theft.
+
+3. Password Management:
+The existing password policy is weak and does not meet industry standards, increasing the risk of unauthorized access through brute force or dictionary attacks.
+
+4. Disaster Recovery:
+The lack of a disaster recovery plan means that the company is not prepared for data loss or other IT emergencies.
+
+5. Data Protection Compliance:
+There is partial compliance with GDPR, but there are gaps in ensuring E.U. customer data is kept private and secure.
+
+6. Data Integrity and Availability:
+There are concerns about the consistency and validation of data, along with proper access controls to ensure data availability to authorized individuals.
+
+
+Botium Toys Security Recommendation
+By following these recommendations, Botium Toys can significantly reduce its risk profile and ensure it maintains a robust security posture as it grows and evolves.
+
+1. Limit Data Access:
+Only let certain staff access important data. Make sure everyone has just enough access to do their job and no more.
+
+2. Better Passwords:
+Make sure everyone uses strong passwords. Think about using a system that needs more than just a password to log in.
+
+3. Protect Data:
+Keep customer information safe by making it unreadable to outsiders, especially when sending it over the internet or saving it.
+
+4. Have a Backup Plan:
+Be ready for emergencies. Regularly save important information so it can be quickly restored if something goes wrong.
+
+5. Check Security Often:
+Regularly check that all security measures are working and meet standards.
+
+6. Know Your Data:
+Keep track of all the data you have and how important it is to your business.
+
+7. Teach Your Team:
+Train your staff on how to keep data safe and why it’s important.
+
+8. Update Security Tools:
+Make sure things like firewalls and virus scanners are up to date to block new threats.
+
+9. Take Care of Old Systems:
+Keep an eye on old computer systems, upgrade them, or get rid of them if needed.
+
+10. Physical Security:
+Make sure your building is secure so no one can get in and tamper with your computers or data.
+
+11. Manage Passwords:
+Use a system that helps staff create and remember strong passwords.
