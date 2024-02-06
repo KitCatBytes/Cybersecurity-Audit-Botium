@@ -13,9 +13,9 @@ This project assesses Botium Toys' cybersecurity, focusing on system and custome
 - **Suggestions**: Strategies for security improvements.
 
 ## Navigation
-- `docs`: Security state analysis.
+- `scope & report`: Security state analysis.
 - `checklist`: Security checklist review.
-- `recommendations`: Security enhancement suggestions.
+- `findings & recommendations`: Security enhancement suggestions.
 
 ## Key Findings
 Key issues include inadequate data management and protection, high risk from insufficient access controls, and vulnerabilities due to weak password policies.
