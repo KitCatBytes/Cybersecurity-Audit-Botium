@@ -44,7 +44,7 @@ Answer: Yes. The physical location has sufficient locks, up-to-date CCTV surveil
 
 ------
 
-**Payment Card Industry Data Security Standard (PCI DSS):**
+##Payment Card Industry Data Security Standard (PCI DSS):##
 
 1. Only authorized users have access to customers’ credit card information.
   Answer: No. All employees currently have access to internally stored data which may include cardholder data.
@@ -59,7 +59,7 @@ Answer: Yes. The physical location has sufficient locks, up-to-date CCTV surveil
 Answer: No. The password policy is nominal and not in compliance with minimum complexity requirements.
 
 
-**General Data Protection Regulation (GDPR):**
+##General Data Protection Regulation (GDPR):##
 
 5. E.U. customers’ data is kept private/secured.
 Answer: No. (Partially) The company has developed and enforces privacy policies but there's no mention of specific measures that ensure E.U. data is kept private or secured.
@@ -74,7 +74,7 @@ Answer: No. The IT department does not know which assets would be at risk, sugge
 Answer: Yes. Privacy policies, procedures, and processes have been developed and are enforced.
 
 
-**System and Organizations Controls (SOC type 1, SOC type 2):**
+##System and Organizations Controls (SOC type 1, SOC type 2):##
 9. User access policies are established.
   Answer: No. Access controls pertaining to least privilege and separation of duties have not been implemented.
 
